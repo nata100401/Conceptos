@@ -1,0 +1,40 @@
+h1{
+	text-align:  center;
+	font-size:  72px;
+}
+p {
+/* 	Tamaño de la fuente em lem=16 -ms-background-position-x: =34 px
+	background-position-x: =34 px/16 px=2.125 em */
+	font-size: 2.125em;
+	/* Tipo de fuente */
+	font-family: Georgia,Serif;
+	/* Peso de la fuente: normal,bold,bolder,lighter,100 a 900,inherit */
+}
+.pa1{
+	border: blue thin solid;
+}
+.pa2{
+	border: pink medium solid;
+}
+.pa3{
+	border: green thick solid;
+}
+.pa4{
+	border: yellow 30px double;
+}
+.pa5{
+	border: black 50px double;
+}.pa6{
+	border: blue medium solid;
+}.pa7{
+	border: yellow 20px double;
+}.pa8{
+	border: green  thin solid;
+}.pa9{
+	border: yellow thin solid;
+}.pa10{
+	border: black thick solid;
+}
+em{
+	font-weight: bolder;
+}
